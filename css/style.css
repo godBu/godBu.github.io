@@ -36,15 +36,9 @@ div {
 .footer {
   font-family: Arial Narrow;
   color: white;
-  text-align: left;
-  background-color: black;
-  left:5;
-  bottom:0;
-  width: 98.05%;
   text-align: center;
-  position: fixed;
-  border-style: ridge;
-  
+  background-color: black;
+  position: relative;
 }
 
 #myHeader {
@@ -150,3 +144,4 @@ dt {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
